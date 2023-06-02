@@ -1,0 +1,9 @@
+.item {
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.item:hover,
+.item:focus {
+    color: #DDA0DD;
+}
